@@ -280,7 +280,3 @@ console.log(JSON.parse(data));
 - Participant IDs should be anonymized for research
 - Consider GDPR/privacy requirements for your use case
 - Data remains client-side unless server storage is configured
-
-## License
-
-This open access version is provided for educational and research purposes. Modify and distribute freely while maintaining attribution.
